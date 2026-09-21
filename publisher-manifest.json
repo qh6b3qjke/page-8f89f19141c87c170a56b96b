@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "22675287584987e65bc0f463",
+  "owner": "qh6b3qjke",
+  "repo": "page-8f89f19141c87c170a56b96b",
+  "title": "桃花源(THYSS)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8f89f19141c87c170a56b96b",
+      "a": "桃花源(THYSS)",
+      "b": "2027官方最新地址导航",
+      "entity": "桃花源(THYSS)",
+      "brand": "桃花源(THYSS)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9f8bd03070daae0d61f5419835c90b13c7f11263b36fa56d03eaf3ab6aba4b8e",
+      "content": {
+        "primary_entity": "桃花源(THYSS)",
+        "keyword1": "桃花源(THYSS)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，Windows、macOS、Android、iOS 与路由器各有适配方案，安装后导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐、导入订阅、连上节点，桃花源(THYSS) 的加速体验从这几步开始。",
+          "AI_CLOSING_TITLE": "开始你的加速体验",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付 ¥15 起，年付更划算，覆盖 3 至 20 台设备同时在线，按流量与设备数量选择即可。",
+          "AI_FEATURES_INTRO": "从套餐档位、在线设备数量到订阅周期，三点帮你快速理清选择思路。",
+          "AI_FEATURES_TITLE": "选择前先看这三点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻量使用，旗舰版 300GB 与团队版 1000GB 覆盖更高流量场景。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按家庭或团队人数对号入座。",
+          "AI_FEATURE_TEXT_3": "三档均提供年付方案，年付价格约为月付的十个月，长期使用可优先考虑年付。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数量选档",
+          "AI_FEATURE_TITLE_3": "按订阅周期选档",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成桃花源(THYSS) 的初始配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "桃花源(THYSS) 提供三档加速套餐，覆盖 3 至 20 台设备在线，月付 ¥15 起，年付更优惠。按流量与设备需求选择档位，再依客户端文档导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "三档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，三档可选",
+          "AI_HIGHLIGHT_2": "年付约为十个月价格",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月 含 100GB 与 3 台设备，旗舰版 ¥35/月 含 300GB、5 台设备与 IPLC 专线，团队版 ¥85/月 含 1000GB 与 20 台设备；年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数量与预算，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备数量与线路权益，确认是否满足日常或团队使用需求。",
+          "AI_STEP_TEXT_3": "在对应设备上安装客户端，依照客户端文档导入订阅配置，连接节点后即可使用。",
+          "AI_STEP_TITLE_1": "选定套餐档位",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "桃花源(THYSS) 加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、套餐差异与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，并包含 IPLC 专线游戏加速优化与优先工单支持。",
+          "AI_FAQ_QUESTION_2": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月 1000GB、支持 20 台设备同时在线，提供 VIP 高带宽节点与企业定制路由，适合小型团队或多设备家庭。",
+          "AI_FAQ_QUESTION_3": "年付和月付怎么选？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850；如果计划长期使用，年付比按月支付更节省。",
+          "AI_FAQ_QUESTION_4": "订阅导入后设备数量超限会怎样？",
+          "AI_FAQ_ANSWER_4": "套餐对同时在线设备数有限制，基础版 3 台、旗舰版 5 台、团队版 20 台，超出时需断开其他设备或升级套餐。",
+          "AI_FAQ_QUESTION_5": "支持哪些客户端？",
+          "AI_FAQ_ANSWER_5": "可根据设备类型选择常见客户端，具体兼容情况建议查阅对应客户端文档并按其步骤导入订阅。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lztclgc.cn",
+    "host": "lztclgc.cn"
+  },
+  "file_hashes": {
+    "index.html": "d66e53840e2b0512acdcaf57ced9fe1657ef34f9e225330563b9091d497bec5c",
+    "sitemap.xml": "0708140a88da07a2b368f4f520c7477eaf2d267895dcb4d55953be9546780627",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9cf66a2507fcab93466edb17de7d638febb57a9e10d7b3cd077824aa0a4ae6d4",
+    "robots.txt": "fdfade8c0d9f7e10e4bd37d040004c076af78d45549e04f1d69681050307ac75",
+    "6d03837d10519733693702794ad55e05.txt": "e401feb4f924bc14bb569f03f589c572d985194de5ab8c61cac3a473b974d449"
+  },
+  "revision": "86582902af08e44f0c85cf9d700a41acdf22674449624aec3c9cb726531663fd"
+}
